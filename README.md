@@ -1,4 +1,4 @@
-# BankATM_Java
+# DeeBankATM_Java
  This project is an ATM Bank Machine simulation developed in Java using the Swing framework. It provides a user-friendly interface for managing basic bank transactions such as deposits, withdrawals, and balance inquiries. The application uses multithreading to enhance the user experience with simple animations and dynamic graphical elements.
 
 Objectives
